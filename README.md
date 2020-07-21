@@ -7,3 +7,5 @@ Took just a day(afternoon, to be more precise!) to complete this one. Although r
 all the CSS elements and their interaction with the javascript.
 
 All in all, this was fun!
+
+https://avantikasparihar-rock-paper-scissors.imfast.io/
